@@ -5,7 +5,8 @@ body {
   font-family: 'Nunito', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #6a5be2;
+  background: rgb(8,9,0);
+  background: linear-gradient(90deg, rgba(8,9,0,1) 9%, rgba(81,10,129,1) 50%, rgba(64,21,207,1) 73%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -16,7 +17,7 @@ body {
   width: 500px;
   border-radius: 30px;
   padding: 40px;
-  background-color: #fff;
+  background-color: #ffffff;
   position: relative;
 
   .result {
