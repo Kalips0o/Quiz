@@ -93,7 +93,7 @@ function Result({correct}) {
         <div className="result">
             <img src="https://cdn-icons-png.flaticon.com/512/2278/2278992.png"/>
             <h2>Вы отгадали {correct} ответа из {questions.length}</h2>
-            <a href='/'>
+            <a href='https://Kalips0o.github.io/Quiz'>
                 <button>Попробовать снова</button>
             </a>
 
